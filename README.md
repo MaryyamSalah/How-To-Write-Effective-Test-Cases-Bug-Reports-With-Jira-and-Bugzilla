@@ -69,3 +69,37 @@ Update: Click on “Commit” to save your changes.
 
 
 In Jira: Use the “Comment” section to add updates or use the “Log Work” feature to track time spent on the test case. You can also change statuses as the test case progresses through different phases.
+
+
+In Bugzilla: Use the “Add Comment” feature to provide updates on the bug. You can also change the bug status to reflect its current state, such as “RESOLVED” or “VERIFIED.”
+
+---How Can Screenshots & Examples Enhance Your Test Cases & Bug Reports?---
+Screenshots can be invaluable for clarifying the steps to reproduce a bug or the expected outcome of a test case. In Jira, you can attach screenshots by using the “Attach Files” option in the “More” menu. In Bugzilla, use the “Add an attachment” link in the bug details page
+
+
+---What Fields Are Essential In Bugzilla Bug Reports?---
+In Bugzilla, the following fields are often considered essential for comprehensive bug reports -
+
+Summary: A brief description of the bug.
+
+Component: The module or feature where the bug was found.
+
+Version: The version of the product where the bug exists.
+
+Severity: The impact level of the bug.
+
+Description: Detailed information about the bug, including steps to reproduce.
+
+Attachments: Any screenshots, logs, or files that can help in understanding the bug.
+
+
+---How To Make Your Test Cases & Bug Reports Clear, Concise, & Complete?---
+Ensuring your test cases and bug reports are clear, concise, and complete is crucial for effective testing. Here are some guidelines -
+
+Be Specific: Avoid vague terms. Clearly define what you are testing or what the bug affects.
+
+Be Brief But Complete: Include all necessary details but avoid unnecessary elaboration.
+
+Use Bullet Points & Lists: These make the steps or details easier to follow.
+
+Standardize Terminology: Use consistent terms and acronyms throughout your test cases and bug reports.
